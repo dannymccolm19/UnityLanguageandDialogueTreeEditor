@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccd4fbf3deee1d5468458dbb7917ce5e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - npc: {fileID: 11400000, guid: 59f187df13ba2104ea3b1d1a9ced6f9e, type: 2}
+  - player: {fileID: 11400000, guid: a047bd1d2e3679442a67828a7a7030c3, type: 2}
+  - keyValues: {fileID: 11400000, guid: aaa4b65fc63b7074985d71ca3745ac3b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
