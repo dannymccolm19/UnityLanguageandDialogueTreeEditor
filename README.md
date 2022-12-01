@@ -1,4 +1,6 @@
 # UnityLanguageandDialogueTreeEditor
+To use: Copy the files into your unity project. Everything in the assets folder is needed.
+
 For this assignment I created two EditorWindows. 
 One is a modified version of the language editor from tools 2 and the other is for editing dialogue trees.
 The dialogue editor has two tabs, NPC and player.
